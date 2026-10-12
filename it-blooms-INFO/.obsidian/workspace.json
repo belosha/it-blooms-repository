@@ -69,16 +69,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAME_LORE/Персонажи.md",
+                "file": "GAME_LORE/Сценарий.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Персонажи"
+              "title": "Сценарий"
+            }
+          },
+          {
+            "id": "32b2099b8c5821d8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,15 +263,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee1a27f0de839af6",
+  "active": "32b2099b8c5821d8",
   "lastOpenFiles": [
+    "TEXT/Диалог 1.md",
+    "Без названия.canvas",
     "GAME_LORE/Сценарий.md",
+    "TEXT",
     "GAME_LORE/Персонажи.md",
+    "CONTRIBUTIONS/Мартыненко Александра.md",
     "CONTRIBUTIONS/Белозуб Александра.md",
+    "CONTRIBUTIONS/Татарова-Молчан Анфиса.md",
     "GAME_DATA",
     "GAME_LORE",
-    "CONTRIBUTIONS/Мартыненко Александра.md",
-    "CONTRIBUTIONS/Татарова-Молчан Анфиса.md",
     "Добро пожаловать.md",
     "CONTRIBUTIONS"
   ]
