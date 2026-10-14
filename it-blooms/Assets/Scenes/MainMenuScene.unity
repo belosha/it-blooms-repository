@@ -298,6 +298,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: 30
   smoothing: 5
+  invertDirection: 0
+  startScaleMultiplier: 1.15
+  introSpeed: 2
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -786,6 +789,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: 30
   smoothing: 5
+  invertDirection: 0
+  startScaleMultiplier: 1.15
+  introSpeed: 2
 --- !u!1 &818968918
 GameObject:
   m_ObjectHideFlags: 0
@@ -992,6 +998,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: 50
   smoothing: 5
+  invertDirection: 0
+  startScaleMultiplier: 1.15
+  introSpeed: 5
 --- !u!1 &831724994
 GameObject:
   m_ObjectHideFlags: 0
@@ -1082,6 +1091,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: 45
   smoothing: 5
+  invertDirection: 0
+  startScaleMultiplier: 1.15
+  introSpeed: 2
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1260,6 +1272,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: 35
   smoothing: 5
+  invertDirection: 0
+  startScaleMultiplier: 1.15
+  introSpeed: 2
 --- !u!1 &947697843
 GameObject:
   m_ObjectHideFlags: 0
@@ -1693,6 +1708,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: 15
   smoothing: 5
+  invertDirection: 0
+  startScaleMultiplier: 1.15
+  introSpeed: 5
 --- !u!1 &1168309762
 GameObject:
   m_ObjectHideFlags: 0
@@ -1984,6 +2002,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxMenu
   intensity: -60
   smoothing: 20
+  invertDirection: 0
+  startScaleMultiplier: 1.5
+  introSpeed: 1
 --- !u!114 &1362993666
 MonoBehaviour:
   m_ObjectHideFlags: 0
