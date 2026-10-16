@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "31cd73b719af31bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONTRIBUTIONS/Мартыненко Александра.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Мартыненко Александра"
-            }
-          },
-          {
             "id": "7e637fb5a5df5e4e",
             "type": "leaf",
             "state": {
@@ -77,8 +63,7 @@
               "title": "Персонажи"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,17 +231,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee1a27f0de839af6",
+  "active": "868e25da5a23c952",
   "lastOpenFiles": [
+    "CONTRIBUTIONS/Мартыненко Александра.md",
+    "CONTRIBUTIONS/Белозуб Александра.md",
+    "GAME_LORE/Сценарий.md",
+    "GAME_LORE/Персонажи.md",
     "Без названия.canvas",
     "TEXT/Диалог 1.md",
     "TEXT",
-    "GAME_LORE/Сценарий.md",
-    "GAME_LORE/Персонажи.md",
-    "CONTRIBUTIONS/Белозуб Александра.md",
     "GAME_DATA",
     "GAME_LORE",
-    "CONTRIBUTIONS/Мартыненко Александра.md",
     "CONTRIBUTIONS/Татарова-Молчан Анфиса.md",
     "Добро пожаловать.md",
     "CONTRIBUTIONS"
